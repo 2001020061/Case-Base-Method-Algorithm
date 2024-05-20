@@ -8,6 +8,7 @@
 | 2201020034   | Monalisa                | -                     |
 | 2201020046   | Alvira Angraini         | Technical Writer      |
 
+## Hasil Sementara
 ![Logo](result.png)
 
 ## Catatan Proyek
