@@ -1,5 +1,3 @@
-![Logo](result.png)
-
 | NIM          | Nama                    |
 |--------------|-------------------------|
 | 2001020061   | Rafli Hidayat           |
@@ -7,6 +5,9 @@
 | 2201020023   | Mohd. Allifyan Baitulnesam |
 | 2201020034   | Monalisa                |
 | 2201020046   | Alvira Angraini         |
+
+
+![Logo](result.png)
 
 ## Catatan Proyek
 
