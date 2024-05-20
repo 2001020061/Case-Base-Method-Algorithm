@@ -1,10 +1,10 @@
-| NIM          | Nama                    |
-|--------------|-------------------------|
-| 2001020061   | Rafli Hidayat           |
-| 2101020069   | Muhammad Raihan Yunus   |
-| 2201020023   | Mohd. Allifyan Baitulnesam |
-| 2201020034   | Monalisa                |
-| 2201020046   | Alvira Angraini         |
+| NIM          | Nama                    | Role                  |
+|--------------|-------------------------|-----------------------|
+| 2001020061   | Rafli Hidayat           | Project Manager       |
+| 2101020069   | Muhammad Raihan Yunus   | -                     |
+| 2201020023   | Mohd. Allifyan Baitulnesam | -                   |
+| 2201020034   | Monalisa                | -                     |
+| 2201020046   | Alvira Angraini         | Technical Writer      |
 
 ![Logo](result.png)
 
