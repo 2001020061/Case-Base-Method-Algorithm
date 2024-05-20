@@ -15,7 +15,7 @@
 Stay tuned!
 
 ## Kontributor
-
+- [Tekad Matulatan, S.Sos., S.Kom., M.Inf.Tech](https://github.com/Matulatan-Tekad).
 - [2001020061](https://github.com/2001020061)
 - [2101020069](https://github.com/2101020069)
 - [2201020023](https://github.com/2201020023)
