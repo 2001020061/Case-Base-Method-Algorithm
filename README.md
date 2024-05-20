@@ -9,7 +9,12 @@
 | 2201020046   | Alvira Angraini         | Technical Writer      |
 
 ## Hasil Sementara
+Dalam ukuran kecil
 ![Logo](result.png)
+
+## Hasil Sementara
+Dalam ukuran 150x150
+![Logo](result_big.png)
 
 ## Catatan Proyek
 
