@@ -6,9 +6,6 @@
 | 2201020034   | Monalisa                |
 | 2201020046   | Alvira Angraini         |
 
-
-
-
 ![Logo](result.png)
 
 ## Catatan Proyek
@@ -16,3 +13,11 @@
 **Perhatian**: Proyek ini sudah hampir selesai dan akan diunggah (upload) dalam waktu dekat. Kami sedang melakukan penyelesaian terakhir dan pembersihan kode sebelum kami merilis versi stabilnya. Terima kasih atas kesabaran dan dukungan Anda.
 
 Stay tuned!
+
+## Kontributor
+
+- [2001020061](https://github.com/2001020061)
+- [2101020069](https://github.com/2101020069)
+- [2201020023](https://github.com/2201020023)
+- [2201020034](https://github.com/2201020034)
+- [2201020046](https://github.com/2201020046)
