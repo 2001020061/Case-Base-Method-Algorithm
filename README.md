@@ -20,7 +20,7 @@ Dalam ukuran 150x150
 
 ## Catatan Proyek
 
-**Perhatian**: Proyek ini sudah hampir selesai dan akan diunggah (upload) dalam waktu dekat. Kami sedang melakukan penyelesaian terakhir dan pembersihan kode sebelum kami merilis versi stabilnya. Terima kasih atas kesabaran dan dukungan Anda.
+**Perhatian**: Proyek ini sudah hampir selesai dan telah dapat membentuk sebuah kota secara random, code masih kami hide dan akan diunggah (upload) dalam waktu dekat. Kami sedang melakukan penyelesaian terakhir dan pembersihan kode sebelum kami merilis versi stabilnya. Terima kasih atas kesabaran dan dukungan Anda.
 
 Stay tuned!
 
